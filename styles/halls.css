@@ -1,0 +1,40 @@
+.halls__title {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 50px;
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 40px;
+}
+
+.halls__figcaption {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-weight: 700;
+  font-size: 70px;
+  line-height: 70px;
+  
+}
+
+.halls__figure:nth-child(even) {
+  margin-right: 14px;
+}
+
+.halls__figure {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  line-height: 50px;
+}
+
+.halls {
+  text-align: center;
+  position: relative;
+}
+
+.halls__img {
+  width: 580px;
+  height: 349px;
+}

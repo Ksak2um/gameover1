@@ -1,0 +1,36 @@
+
+.social {
+  display: flex;
+}
+
+.social__item {
+  margin:  36px 26px 0 0;
+}
+
+.contacts__map {
+  float: right;
+  margin-top: 50px;
+}
+
+.contacts__address {
+  margin-top: 15px;
+}
+
+.contacts__text {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+}
+
+.contacts__position {
+  text-align: left;
+  margin-top: 110px;
+}
+
+.contacts__subtitle {
+  text-align: right;
+}
+
+.contacts {
+  background: linear-gradient(180deg, #1B1A1B 0%, #370A37 100%);
+}

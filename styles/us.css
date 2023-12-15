@@ -1,0 +1,79 @@
+.us__wrap {
+  display: flex;
+  gap: 80px;
+  margin-bottom: 100px;
+}
+
+.us__text {
+  width: 500px;
+}
+
+.us__go {
+  position: relative;
+  font-size: 44px;
+  line-height: 50px;
+  font-weight: 400;
+  text-transform: uppercase;
+  margin: 30px 39px 0;
+  padding-right: 50px;
+  width: 469px;
+  height: 191px;
+}
+
+.us__figure {
+  display: flex;
+  align-items: center;
+  margin: 40px 0px 30px 130px;
+  width: 423px;
+}
+
+.us__p:not(:last-child) {
+  margin: 0 0 30px;
+}
+
+
+.us__item {
+  display: flex;
+}
+
+.us__text-small {
+  width: 100%;
+  height: 222px;
+  line-height: 28px;
+  font-weight: 400;
+}
+
+.us__go::before {
+  content: "“";
+  color: #6C0287;
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 50px;
+  margin-right: 15px;
+}
+
+.us__go::after {
+  content: "”" ;
+  color: #6C0287;
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 50px;
+  margin-left: 10px;
+}
+
+.us__title {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 50px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.us__figcaption{
+  text-align: left;
+  font-weight: 400px;
+  font-size: 20px;
+  line-height: 28px;
+  margin: 0px 0px 0px 20px;
+  vertical-align: top;
+}

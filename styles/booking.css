@@ -1,0 +1,174 @@
+.booking {
+  display: inline-block;
+  min-width: 1440px;
+  min-height: 1114px;
+  background-color: #440F51;
+}
+
+.booking__title {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 50px;
+  text-align: center;
+}
+
+
+
+.booking__but__title {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+  margin-top: 40px;
+}
+
+.booking__but__text {
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 40px;
+  text-align: center;
+  border-radius: 8px;
+  min-width:250px;
+  min-height: 55px;
+  margin-top: 30px;
+  margin-left: 100px;
+}
+
+.booking__collection__title {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.booking__collection__console__title {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+}
+
+.booking__collection__console__lebel{
+  gap: 0px 10px;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 25.3px;
+
+}
+
+.booking__collection__console__lebel-mod {
+  min-height: 27px;
+  min-width: 27px;
+  padding-bottom: 5px;
+}
+
+.booking__collection__game__title {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+}
+
+.booking__collection__game__impel {
+  gap: 0px 10px;
+  padding-top: 10px;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 25.3px;
+}
+
+.booking__collection__game__impel-mot {
+  min-height: 27px;
+  min-width: 27px;
+}
+
+.booking__collection__more__title {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+}
+
+.booking__collection__more__legin {
+  gap: 0px 10px;
+  padding-top: 10px;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 25.3px;
+}
+
+.booking__collection__more__legin-dif {
+  min-height: 27px;
+  min-width: 27px;
+}
+
+.booking__collection__diveine {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 40px;
+}
+
+.booking__collection__coll {
+  display: flex;
+  flex-direction: column;
+  padding-top: 20px;
+}
+
+.booking__collection__coll__list {
+  margin-top: 10px;
+}
+
+.booking__time__title {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+  margin-top: 60px;
+  margin-bottom: 30px;
+}
+
+.booking__time__position {
+  display: inline-block;
+  flex-direction: column;
+  padding-left: 40px;
+  margin-left:57px;
+}
+
+.booking__time__date {
+  display: inline-flex;
+  width: 132px;
+  height: 52px;
+  margin-top: 20px;
+  margin-left: 30px;
+}
+
+.booking__time__hows {
+  display: flex;
+  width: 300px;
+  height: 52px;
+  margin-top: 40px;
+  margin-left: 30px;
+}
+
+.booking__time__names {
+  display: flex;
+  height: 74px;
+  width: 280px;
+}
+
+.booking__time__iteam {
+  display: flex;
+  width: 300px;
+  height: 74px;
+}
+
+.booking__time__button {
+  display: block;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 28px;
+  color: #6C0287;
+  width: 300px;
+  height: 60px;
+  border-radius: 10px;
+  margin-left: 910px;
+  margin-top: 40px;
+}

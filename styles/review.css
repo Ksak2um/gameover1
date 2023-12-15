@@ -1,0 +1,30 @@
+.review__wrapper {
+  display:flex;
+}
+
+.review__title {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 50px;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.review__img {
+  margin-bottom: 10px;
+}
+
+.review__figcaption {
+  width: 280px;
+  text-align: center;
+  font-weight: 400px;
+  margin-bottom: 79px;
+}
+
+.review__text {
+  width: 680px;
+  height: 100%;
+  margin: 55px 0 0 20px;
+  line-height: 28px;
+
+}

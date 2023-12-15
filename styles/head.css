@@ -1,0 +1,33 @@
+.head {
+  display: flex;
+  justify-content: space-evenly;
+  max-width: 1180px;
+  margin-left: 75px;
+}
+
+.head__menu {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+
+}
+
+.head__text {
+  display: flex;
+  color: #FFFFFF;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 50px;
+  
+}
+
+.head__button {
+  color:#FFFFFF;
+  background-color:#1B1A1B;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 30px;
+  border-radius: 10px;
+  border: 3px solid #CD06FF;
+  
+}
